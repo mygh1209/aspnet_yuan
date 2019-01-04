@@ -1,0 +1,204 @@
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.jQuery.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Owin.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojAssemblyReference.cache
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CoreCompileInputs.cache
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CopyComplete
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+G:\Desktop files\aspnetvs2015\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Owin.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojAssemblyReference.cache
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CoreCompileInputs.cache
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CopyComplete
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+C:\Users\tr-nfc\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Owin.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\System.Web.Providers.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojAssemblyReference.cache
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CoreCompileInputs.cache
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csproj.CopyComplete
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+C:\Users\yuan\Source\Repos\studyaspnet0913\RentMyWrox_Chapter2_CSharp\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb

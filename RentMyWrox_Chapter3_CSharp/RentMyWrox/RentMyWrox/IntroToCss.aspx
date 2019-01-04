@@ -1,0 +1,27 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="IntroToCss.aspx.cs" Inherits="RentMyWrox.IntroToCss" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/IntroToCss.css" type="text/css" rel="stylesheet" />
+
+    <style>
+        body {
+            color :blue;
+            font-size：20px;
+            font-weight:800;
+        }
+    </style>
+</head>
+
+<body>
+    你好 欢迎使用vs2017
+    <h1><span class="introduction">Introduction </span>to CSS</h1>
+    I am test text
+    <div class="special">
+        And I am special text!
+    </div>
+</body>
+</html>
