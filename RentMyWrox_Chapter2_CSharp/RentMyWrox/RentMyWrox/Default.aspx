@@ -16,7 +16,7 @@
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">了解更多 &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
@@ -34,7 +34,7 @@
                 You can easily find a web hosting company that offers the right mix of features and price for your applications.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">了解更多 &raquo;</a>
             </p>
         </div>
     </div>
